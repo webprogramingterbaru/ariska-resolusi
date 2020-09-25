@@ -3,7 +3,8 @@ RENCANA KONTEN ARISKA
 - Kdepannya saya mau buat java
 * Es6
 * Framework javascript
-^ vue
+  ^ Angular
+  ^ react
 - Seorang programer
 - Kedepannya belajar coding
 - Vlog
